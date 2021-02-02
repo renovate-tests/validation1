@@ -1,0 +1,6 @@
+{
+  "branchPrefix": "foo/",
+  "docker": {
+    "branchPrefix": "bar/"
+  }
+}
